@@ -4,6 +4,9 @@ aifr-docs
 %!target: rst
 
 
+//note sur cette documentation : le fichier source d'origine est le fichier README.t2t, tandis que le fichier README.rst est une exportation automatiquement générée.//
+
+
 Ce projet cherche à réunir toutes les ressources francophones sur les outils [AIML https://fr.wikipedia.org/wiki/AIML] et [RiveScript http://www.rivescript.com/], au moyen de dépôts publics et libres, permettant à chacun d'accéder à ces ressources.
 
 Nous souhaitons donc créer :
@@ -17,3 +20,46 @@ Pour les discussions techniques et philosophiques sur le sujet, nous vous consei
 - Rivescript : http://mctarek2.free.fr/phorum/list.php?10
 - AIML : http://mctarek2.free.fr/phorum/list.php?8
 
+
+Des ressources utiles sur la question :
+
+- http://crriam.over-blog.com/
+- http://www.rivescript.com/aiml
+
+
+
+== Base minimale ==
+
+- Quel est le but d'un bot ? (liste non exhaustive et non obligatoire)
+ - créer un « compagnon virtuel », destiné à égayer un salon IRC, XMPP ou un site internet.
+ - un outil engrangeant des connaissances qu'il peut ensuite restituer de façon conviviale
+ - le côté ludique de la création du bot et de son esprit
+ 
+ 
+== Outils ==
+
+- RiveScript a une syntaxe épurée, en revanche AIML est très verbeux (basé sur XML).
+
+Un exemple :
+
+Ce code AIML :
+```
+<category>
+ <pattern>BONJOUR</pattern>
+  <template>salut</template>
+</category> 
+```
+
+se traduira ainsi en RiveScript :
+
+```
++ bonjour
+- salut toi 
+```
+
+Malgré cela, on pourrait encore souhaiter optimiser ou factoriser certains aspects de RiveScript. On peut donc imaginer écrire certaines parties de la base de connaissances dans une forme encore plus simplifiée. //À suivre//
+
+
+
+ 
+ 
