@@ -72,7 +72,11 @@ L'existant
  - http://www.commentcamarche.net/forum/affich-5680507-editeur-aiml
  - http://www.vincentabry.com/alice-chatterbot-et-aiml-de-richard-wallace-404
 
-== Outils ==
+
+
+Outils
+======
+
 
 - RiveScript a une syntaxe épurée, en revanche AIML est très verbeux (basé sur XML).
 
