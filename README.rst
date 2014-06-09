@@ -23,6 +23,10 @@ Des ressources utiles sur la question :
 
 - http://crriam.over-blog.com/
 - http://www.rivescript.com/aiml
+- http://www.lisa-project.net/
+- http://www.chatbots.org/
+- http://www.multimedialab.be/cours/langages/aiml.htm
+- http://aitools.org/Free_AIML_sets
 
 
 Base minimale
@@ -34,6 +38,18 @@ Base minimale
  - créer un « compagnon virtuel », destiné à égayer un salon IRC, XMPP ou un site internet.
  - un outil engrangeant des connaissances qu'il peut ensuite restituer de façon conviviale
  - le côté ludique de la création du bot et de son esprit
+ - ...
+
+- « Cerveaux » existants en français :
+
+ - RiveScript : http://crriam.over-blog.com/categorie-12533619.html et http://crriam.over-blog.com/article-telechargement-rivscript-fr-116393103.html (exemples sur http://tungstene.free.fr/rivescript/eg/)
+ - AIML http://aitools.org/Free_AIML_sets#French_AIML ou http://www.alicebot.org/downloads/sets.html *(semblent assez anciens et perfectibles)*
+
+
+
+- Discussions au fil des forums :
+
+ - http://www.commentcamarche.net/forum/affich-5680507-editeur-aiml
 
 
 
