@@ -6,6 +6,11 @@ aifr-docs
 
 Ce projet cherche à réunir toutes les ressources francophones sur les outils [AIML https://fr.wikipedia.org/wiki/AIML] et [RiveScript http://www.rivescript.com/], au moyen de dépôts publics et libres, permettant à chacun d'accéder à ces ressources.
 
+Nous souhaitons donc créer :
+
+- une base minimale et de qualité pour réaliser des bots parlant français.
+- des outils de type préprocesseurs permettant, si c'est possible, d'utiliser des bases de données de connaissances communes à AIML et RiveScript
+
 
 Pour les discussions techniques et philosophiques sur le sujet, nous vous conseillons d'utiliser ces forums :
 
