@@ -27,18 +27,38 @@ Des ressources utiles sur la question :
 - http://www.chatbots.org/
 - http://www.multimedialab.be/cours/langages/aiml.htm
 - http://aitools.org/Free_AIML_sets
+- http://patrice.dargenton.free.fr/ia/alice/alicechatbot.html
 
 
 Base minimale
 =============
 
 
-- Quel est le but d'un bot ? (liste non exhaustive et non obligatoire)
+Quel est le but d'un bot ?
+--------------------------
+
+*(liste non exhaustive et non obligatoire)*
+
 
  - créer un « compagnon virtuel », destiné à égayer un salon IRC, XMPP ou un site internet.
  - un outil engrangeant des connaissances qu'il peut ensuite restituer de façon conviviale
  - le côté ludique de la création du bot et de son esprit
  - ...
+
+
+Que mettre dans cette base ?
+----------------------------
+
+*(liste non exhaustive et non obligatoire)*
+
+
+ - interaction de base, la plus neutre possible, sans donner une personnalité trop marquée au bot, de type « bonjour, qui es-tu, qu'aimes-tu lire etc »
+ - base de connaissances : les plantes, les animaux, etc. par exemple « Qu'est-ce qu'une rose, qu'est-ce qu'un chat »
+
+
+L'existant
+----------
+
 
 - « Cerveaux » existants en français :
 
@@ -50,12 +70,9 @@ Base minimale
 - Discussions au fil des forums :
 
  - http://www.commentcamarche.net/forum/affich-5680507-editeur-aiml
+ - http://www.vincentabry.com/alice-chatterbot-et-aiml-de-richard-wallace-404
 
-
-
-Outils
-======
-
+== Outils ==
 
 - RiveScript a une syntaxe épurée, en revanche AIML est très verbeux (basé sur XML).
 
